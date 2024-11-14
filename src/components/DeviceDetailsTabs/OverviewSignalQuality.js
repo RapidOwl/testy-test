@@ -12,7 +12,7 @@ function OverviewSIMDetails({ lowSignal }) {
       <Typography variant="h5" gutterBottom>
         Signal Quality
       </Typography>
-      <Typography variant="body1">{SignalStrength}</Typography>
+      {SignalStrength}
     </>
   );
 }
