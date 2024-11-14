@@ -19,7 +19,9 @@ export default App;
 //
 
 // TODO
-// Tests for DeviceName
+
+// Change the email on the commits :joy:
+// Back link from device details to device list
 // The auth'd URLs would presumably need a bearer token
 // useSWR for caching and revalidation
 // Labels are only available on the secondary request? So would need doing for every row...
@@ -43,3 +45,4 @@ export default App;
 // The SIM info wasn't on the endpoint so I created a signal strength indicator instead
 // I wasn't going to demonstrate anything new by adding more information so I moved onto tests
 // I didn't have time to add Storybook
+// Better naming for the GitHub action steps
